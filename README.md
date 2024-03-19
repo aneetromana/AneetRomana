@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Aneet </h1>
+<h1 align="center">Hi 👋, I'm Aneet </h1>
 <h2>I am currently a student at BCIT</h2>
 <h3>Connect with me! aneetromana167@gmail.com</h3><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  
@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
 
 
-<h3>Current Projects</h3>
+<h3 align="center">Current Projects</h3>
 I am currently working on a project with my team called <a href="https://github.com/lance-malaga/venture">Venture</a> using React.
 
 
@@ -19,8 +19,5 @@ I am currently working on a project with my team called <a href="https://github.
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
 
 
-
-I am also working on a practicum at Coastive Design to assist in setting up websites. These websites are being created using the following programs 
-<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 
 
