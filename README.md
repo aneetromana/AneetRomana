@@ -8,6 +8,8 @@
 
 
 
-I am currently working on a project with my team called Venture using React.
+I am currently working on a project with my team called <a href="https://github.com/lance-malaga/venture">Venture</a> using React.
+
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next">
