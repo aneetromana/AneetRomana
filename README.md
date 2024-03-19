@@ -10,7 +10,7 @@
 
 
 <h3 align="left">Current Projects / Coding Languages</h3>
-<h2 align="left">I am currently working on a project with my team called <a href="https://github.com/lance-malaga/venture">Venture</a> using React.
+<h4 align="left">I am currently working on a project with my team called <a href="https://github.com/lance-malaga/venture">Venture</a> using React.
  </h2>
 <div align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
