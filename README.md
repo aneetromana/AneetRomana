@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aneet </h1>
 <h2>I am currently a student at BCIT</h2>
-<h3>Connect with me! aneetromana167@gmail.com</h3><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<h2>Connect with me! aneetromana167@gmail.com</h3><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  
-<h3>Favourite Programs</h3>
+<h2>Favourite Programs</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
