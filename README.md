@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aneet </h1>
-<h2>I am currently a student at BCIT</h2>
+<h2>I live in Vancouver BC and I am currently a student at BCIT</h2>
 
 <h2>Favourite Programs</h2>
 <div align="center">
