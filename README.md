@@ -15,8 +15,8 @@ I am currently working on a project with my team called <a href="https://github.
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next">
-<h4>send me an email! aneetromana167@gmail.com</h4>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<h3>Connect with me! aneetromana167@gmail.com</h3><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
 
 I am also working on a practicum at Coastive Design to assist in setting up websites. These websites are being created using the following programs 
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
