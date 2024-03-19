@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I'm Aneet, I am a student at BCIT </h1>
+<h1 align="left">Hi 👋, I'm Aneet </h1>
+<h2>I am currently a student at BCIT</h2>
  
 <h3>Favourite Programs</h3>
 
